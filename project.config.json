@@ -10,7 +10,8 @@
 	},
 	"appid": "wx4b13dbbd481194ac",
 	"projectname": "Practice",
-	"libVersion": "2.2.5",
+	"libVersion": "2.4.1",
+	"compileType": "miniprogram",
 	"condition": {
 		"search": {
 			"current": -1,
